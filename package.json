@@ -1,0 +1,20 @@
+{
+  "name": "klear",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Klear — the clarity layer for your team and its AI. Turn conversations, notes, files, and ideas into one shared understanding everyone reads the same way. Built for Agentic AI Build Week, Builder Experience track.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.7"
+  }
+}
