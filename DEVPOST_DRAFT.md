@@ -29,7 +29,7 @@ The engine runs **I→P→S→D (Intake → Process → Store → Dispatch)**, a
 **Who it's for.** Any small team moving fast alongside its AI tools — buildathon squads, founding teams, product pods — where decisions outrun the documentation and the copilots fall out of sync with the humans.
 
 ## Demo
-- **Live URL:** [ FILL IN — deployed demo URL ]
+- **Live URL:** https://peuarchukiati-rgb.github.io/klear/
 - **Walkthrough video (< 2 min):** [ FILL IN — YouTube/Loom URL ]
 
 The fastest path: open the app, click **try a sample →** (the GlowGod dropship squad below), hit **Find the shared state**, then **Split into companions →** and paste the sample handoff back to watch the state go live at v2.
@@ -103,7 +103,7 @@ Then:
 ## Links
 - **Repo:** https://github.com/peuarchukiati-rgb/klear
 - **Demo video (< 2 min):** [ FILL IN — YouTube/Loom URL ]
-- **Live demo:** [ FILL IN — deployed URL ]
+- **Live demo:** https://peuarchukiati-rgb.github.io/klear/
 
 ## Team
 [ FILL IN ]
