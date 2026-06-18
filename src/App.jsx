@@ -226,7 +226,7 @@ async function callClaude(system, userContent, expectJSON, apiKey, lang) {
   }
 }
 
-// Brand palette — KLAI warm CI, in light (cream editorial) and dark (warm espresso).
+// Brand palette — Klear warm CI, in light (cream editorial) and dark (warm espresso).
 const LIGHT = {
   void: "#F5F0E8", panel: "#EDE6D8", line: "#D9D1C0",
   ink: "#2A2A28", mute: "#595544",          // muted darkened for readability on cream
