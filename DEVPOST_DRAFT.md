@@ -42,7 +42,7 @@ The fastest path: open the app, click **try a sample →** (the GlowGod dropship
 - **Language is auto-matched to the input** for every human-readable value (Thai script detected → output in Thai; else English), passed to the model as a top-priority output instruction.
 
 ## Source code
-- **GitHub:** [ FILL IN — GitHub URL ]
+- **GitHub:** https://github.com/peuarchukiati-rgb/klear
 
 ## Track
 **Builder Experience Award** — Agentic AI Build Week 2026.
@@ -101,7 +101,7 @@ Then:
 4. Click **Split into companions →**, then **try a sample handoff →** and **Merge into shared state ↑** to watch the folder go live.
 
 ## Links
-- **Repo:** [ FILL IN — GitHub URL ]
+- **Repo:** https://github.com/peuarchukiati-rgb/klear
 - **Demo video (< 2 min):** [ FILL IN — YouTube/Loom URL ]
 - **Live demo:** [ FILL IN — deployed URL ]
 
