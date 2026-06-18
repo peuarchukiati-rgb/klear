@@ -1,49 +1,97 @@
-# Klear — Demo Video Script + Shot List
+# Klear — Demo Video Storyboard (record one take → design on top)
 
-**Klear** — the clarity layer for your team + its AI.
-Target length: **under 2 minutes** (~90–100s hero flow + ~10s bonus, leaving buffer).
+**Klear** — the clarity layer for your team + its AI. Target: **under 2 minutes.**
 
-Engine: **Intake→Process→Store→Dispatch**, Store-first. Paste a team's messy chat → one shared project state every human and every AI copilot reads the same way.
+> The Devpost demo field is *"a video walkthrough and/or live demo URL"* — it does **not** have to be a live recording, and our **live URL** already covers "live demo." So this video is **design-forward**, but anchored in **real app footage** (a pure motion-graphics video risks the "mockup / no working demo" rule).
+> Plan: ✋ **you record the whole flow as ONE continuous take**, then 📝 **drop my design layer on top** (cards + callouts + captions + music). I provide every on-screen word; you record + edit + upload.
 
 ---
 
-## The script
+## ✋ Your action blocks (TL;DR)
+1. **Setup** the screen (Part 1) — 2 min.
+2. **Record** one continuous take of the dropship flow (Part 2) — ~90s of footage. *(optional: a 2nd ~10s Thai take.)*
+3. **Edit**: lay my cards/callouts/captions on top, trim the wait segments (Part 3).
+4. **Export** <2 min, upload unlisted, send me the link → I paste it into Devpost (Part 4).
 
-| ⏱ | [On-screen action] | Voiceover |
+---
+
+## Part 1 — Setup (✋ Peak, before you hit record)
+- [ ] Open the **live site**: https://peuarchukiati-rgb.github.io/klear/ on a **fresh reload**.
+- [ ] Toggle **☾ dark** (top-right). It films best.
+- [ ] **Paste your Anthropic API key** in the field at the top *now* (so it's never on screen during the take).
+- [ ] Browser **full-screen**, hide the **bookmarks bar**, close other tabs.
+- [ ] Record at **1080p** (OBS / QuickTime / Win+Alt+R / ScreenStudio). Capture the browser content area, not the whole desktop.
+- [ ] Don't pre-click anything — the first on-screen click should be **try a sample →**.
+
+> Tip: record **silent** and add voiceover in the edit (cleaner), OR read the VO (Part 5) live as you go — your call.
+
+---
+
+## Part 2 — Record: the ONE continuous take (✋ Peak records)
+Do it all in a single take, mouse moves slow + deliberate. Hold the **3 ⭐ wow beats ~3s each** so my callouts have room. Don't worry about the LLM wait times — we speed/trim those in the edit.
+
+| # | Do this on screen | Pacing |
 |---|---|---|
-| **0:00–0:08** | Hold on the hero. Title **Klear**, tagline, the headline "Your team already decided. Your AI didn't get the memo." | "In a buildathon, you decide something at hour two — and by hour six half the team, and every AI copilot, is building a different thing. That's context drift." |
-| **0:08–0:14** | Click **try a sample →**. The dropship chat fills the paste box (Chad/Cody/Dylan, LED face-mask store "GlowGod", live before Friday). Scroll it once, slowly. | "Here's a real mess. Three founders, a Shopify store, a Friday deadline — and a pivot nobody fully wrote down." |
-| **0:14–0:26** | Click **Find the shared state**. The live progress bar runs through "Reading the room → Mapping the state → Hunting the STORE gap → Writing companion." | "Klear runs one lens over it: Intake, Process, Store, Dispatch. Every piece of work moves through those four beats." |
-| **0:26–0:34** | Output lands. Cursor points at the **I→P→S→D pipeline bar** — **STORE flagged red as ◄ gap.** | "And here's the catch. The chaos *looks* like a people problem — but the root cause is almost always an empty Store. The decisions never got written down." |
-| **0:34–0:42** | Pan to **Project state** card: goal, **Track**, **Deadline** (Friday, ~4 days). Then the **⚠ Close this gap first** card. | "Klear finds the goal, the deadline, and then the real bug:" |
-| **0:42–0:52** | Hold on the **⚠ Close this gap first** card. Highlight the finding + "Why it bites." | "The product brief lives only in Chad's head. So Cody already cut creatives for the *wrong* product. That's the gap — and Klear says fix it first." |
-| **0:52–0:58** | Scroll to **Who does what next** — Chad/Cody/Dylan, each with "blocked by" and "↪ rejoins." Then the green **companion.md** card. | "Everyone gets a next action and a place their work rejoins — packed into one portable companion file any teammate or AI can load." |
-| **0:58–1:06** | Click **Split into 3 companions →**. Progress bar runs. Three tabs appear: **Chad · Cody · Dylan**. Click between them. | "Now it goes living. Klear splits the state into one companion *per person* — their slice, their mission." |
-| **1:06–1:12** | On a companion tab, scroll to the **📤 Pack Back** block. | "And every companion ends with a Pack Back block — the exact thing they fill in and send home. That's how a handoff comes *back*." |
-| **1:12–1:18** | Click **try a sample handoff →**. Cody's returned update loads in the box ("done — new creatives... locked GlowGod... test ad first..."). | "Cody does his part and pastes it back." |
-| **1:18–1:30** | Click **Merge into shared state ↑**. Progress bar runs. ⭐ **The badge flips to `shared state · v2 · live`. The Update Log appears: "v2 · Cody handed back" with RESOLVED / CHANGED / ADDED / RISK rows.** Convergence counter ticks: "handoffs in: 1." | "And this is the whole point — the folder updates *itself*. v1 becomes v2. Resolved, changed, added, flagged. One paste, and the shared truth moved — for every human and every AI at once." |
-| **1:30–1:36** | Slow hold on the v2 badge + Update Log together. Let it breathe. | "No one re-explained anything. The state just converged." |
+| 1 | Start on the **hero** (Klear + tagline + headline). | hold ~2s |
+| 2 | Click **try a sample →**. Dropship chat fills the box. Scroll it slowly once (Chad/Cody/Dylan · GlowGod · Friday). | ~3s |
+| 3 | Click **Find the shared state**. Let the progress bar run. | let it play |
+| 4 | ⭐ Output lands. Move cursor to the **I→P→S→D bar — STORE is red `◄ gap`.** Hover it. | **hold ~3s** |
+| 5 | Scroll to **⚠ Close this gap first** — the brief lives only in Chad's head; Cody built the wrong thing. | ~3s |
+| 6 | Scroll **Who does what next** (Chad/Cody/Dylan + blocked-by / rejoins), then the green **companion.md** card. | ~3s |
+| 7 | Click **Split into 3 companions →**. Progress runs; tabs **Chad · Cody · Dylan** appear. Click across the 3 tabs. | ~3s |
+| 8 | ⭐ On one tab, scroll to the **📤 Pack back** block. Hover it. | **hold ~3s** |
+| 9 | Click **try a sample handoff →**. Cody's returned update fills the box. | ~2s |
+| 10 | Click **Merge into shared state ↑**. Let the progress run. | let it play |
+| 11 | ⭐ Badge flips to **`shared state · v2 · live`**; the **Update Log** appears (RESOLVED/CHANGED/ADDED/RISK); convergence ticks **handoffs in: 1**. Sit still and let it breathe. | **hold ~4s** |
+| 12 | Stop recording. | — |
 
-**Hero flow ends ~1:36.**
-
----
-
-## Optional bonus (~10s)
-
-| ⏱ | [On-screen action] | Voiceover |
-|---|---|---|
-| **1:36–1:46** | Quick cut: paste a real **Thai** voice-meeting transcript, run **Find the shared state**, output renders with Thai values. | "And it's not just clean English chat — feed it a real, messy voice-meeting transcript, in any language, and Klear still finds the state. We tried it on an actual Thai meeting. It just worked." |
-
-**End card:** Klear — the clarity layer for your team + its AI.
+**Optional 2nd take (~10s bonus):** fresh reload → paste a **sanitized real Thai meeting** transcript → **Find the shared state** → let the **Thai output** render → stop. *(Only if you're OK showing it — strip any client names first.)*
 
 ---
 
-## Recording tips
+## Part 3 — Edit: my design layer on top (✋ Peak edits · 📝 copy below is yours to paste)
+Lay these over the one take. Any editor works (**CapCut / Canva / DaVinci / Premiere**).
 
-- **Use dark mode** — toggle top-right (`☾ dark`). It films great.
-- Have the **API key already pasted** before you hit record (it's at the top of the page).
-- **Pre-load nothing else** — start from a clean page so `try a sample →` is the first click on screen.
-- Keep **cursor movements deliberate** and slow; pause on each wow beat (STORE gap, the v2 flip).
-- Record at **~1080p**.
-- The three live beats to nail: **STORE = the gap**, the **Pack Back** block, and the **v1 → v2** flip with the Update Log. Don't rush the merge — that's the climax.
-- Each engine call takes a few seconds; either let the progress bar play (it's designed to look alive) or trim dead air in the edit. Don't cut the bar entirely — it sells that real work is happening.
+**A. INTRO card** — 0:00–0:03, before the footage. Designed title screen:
+- Big: **Klear**
+- Under it: *the clarity layer for your team + its AI*
+- Small: *Builder Experience · Agentic AI Build Week*
+
+**B. Callouts pinned on the footage** (text box + arrow at each beat):
+- At beat 4 (STORE red): **“The chaos isn't a people problem — it's an empty STORE.”**
+- At beat 5 (gap card): **“The one decision nobody wrote down.”**
+- At beat 7 (3 tabs): **“One companion per teammate.”**
+- At beat 8 (Pack back): **“…each ends with a Pack Back block. That's how work comes *back*.”**
+- At beat 11 (v2): **“Paste it back → the folder updates itself. v1 → v2.”** *(make this the biggest callout — it's the climax)*
+
+**C. Lower-third captions** (small, bottom, optional but nice):
+- 0:03 *“Paste your team's messy chat…”*
+- ~mid *“Intake → Process → Store → Dispatch”*
+- ~climax *“same folder, new truth — for every human and every AI”*
+
+**D. OUTRO card** — last 0:03:
+- **Klear** — *the clarity layer for your team + its AI*
+- *Try it live:* **peuarchukiati-rgb.github.io/klear**
+- *Self-contained · runs on your own key · no backend*
+
+**E. Pacing in the edit:**
+- During the two LLM waits (beats 3 & 10): **speed 3–4× or trim** — but **keep ~1.5s of the progress bar visible.** Don't cut it entirely; it proves real work is happening.
+- Hold the 3 wow beats at normal speed.
+- Add light **music** (clean modern/lo-fi tech, low under the VO).
+
+---
+
+## Part 4 — Export & submit (✋ Peak)
+- [ ] Export **< 2:00**, **1080p**, mp4.
+- [ ] Upload **unlisted** to **YouTube** or **Loom**.
+- [ ] **Send me the link** → I'll paste it into `DEVPOST_DRAFT.md` (both video spots) and you're ready to submit.
+
+---
+
+## Part 5 — Voiceover script (📝 read live or in post; ~110 words, lands under 2 min)
+> "In a buildathon you decide something at hour two — and by hour six half the team, and every AI copilot, is building a different thing. That's **context drift**.
+> Paste the mess. Klear runs one lens — **Intake, Process, Store, Dispatch** — and goes straight for the root cause: an empty **Store**. The decision that was never written down. Here, the whole product brief lives only in Chad's head — so Cody already built the wrong thing.
+> Then it goes *living*: one companion per teammate, each with a **Pack Back** block. Cody does his part, pastes it back, and **merge** — the folder updates itself. v1 becomes v2. Resolved, changed, flagged. Nobody re-explained a thing.
+> **Klear** — the clarity layer for your team and its AI."
+
+*(Bonus tag, if you use the Thai take:) "And it's not just clean English — feed it a real, messy voice meeting in any language, and it still finds the state."*
